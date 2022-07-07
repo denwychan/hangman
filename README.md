@@ -3,7 +3,7 @@
 This is an implementation of the classic children's game [Hangman](https://en.wikipedia.org/wiki/Hangman_%28game%29)  
 This is Assignment #4 of CS106A Programming Methodologies module by Stanford University
 
-![Hangman Console Preview](HangmanCanvasPreview.png =200x)
+<img src="HangmanCanvasPreview.png" alt="drawing" width="700"/>
 
 ## How to Play
 
