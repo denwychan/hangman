@@ -36,7 +36,3 @@ This is Assignment #4 of CS106A Programming Methodologies module by Stanford Uni
      - left foot
      - right foot
      - Note: the Scaffold and rope are drawn before game starts
-     
-## Software Requirements
-
-Coming soon
